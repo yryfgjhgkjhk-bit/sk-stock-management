@@ -1,0 +1,7 @@
+{
+  "name": "Sk Stock Management",
+  "description": "A comprehensive offline-first stock management and sales tool featuring real-time inventory tracking, low-stock alerts, and AI-powered business insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
